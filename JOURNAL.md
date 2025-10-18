@@ -10,12 +10,17 @@ This is my journal of the design and building process of **Gaming Console**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/638).
 
 
-## 10/17/2025 - Pushed my BOM.csv and README.md  
+## 10/17/2025 8 PM - Pushed my BOM.csv and README.md  
 
 I made my Bill of Materials and README.md. I plan on working on my case next in use fusion 360 for my case. I think I'm going to finish this soon hopefully and I might add upgrades to the consoles like a speaker and a better screen. I think I might also find a way to make the console handheld instead of a brick.
 
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e23243c0f44e85e60702ad4cf6e570d8a01c960c/image.png)
+  
+
+## 10/17/2025 9 PM - Updated BOM   
+
+I found cheaper versions and updated my BOM. I improved the thickness of the console and i might make it handheld and attachable to tv and monitors. I am going to find better versions of the controllers and possibly find speakers. I think i could add a bigger sd card.  ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--33517b07327f42bed4f93146fcf89d62ab07d43b/image.png)
   
 
