@@ -2,6 +2,7 @@
 DIY Raspberry Pi Gaming Console
 
 Hey there! This is my Hack Club Blueprint Project: A Raspberry Pi 4 retro game emulator!
+
 What’s This About?
 
 I designed a portable gaming console powered by a Raspberry Pi 4. It plays classic games, and fits into a custom case I made myself.
