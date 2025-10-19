@@ -29,3 +29,8 @@ I found cheaper versions and updated my BOM. I improved the thickness of the con
 I added sales tax to my BOM and finished my first version of the case which will hold the raspberry pi 4 the fan and the screen. I think I am almost done with the console and I think I can publish it soon. I am going to add a improved version of the case ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8aef719ba4c85cfdbd49dd0362ee7af8ffdbdaaf/image.png)
    
 
+## 10/19/2025 - Added vents to the case  
+
+I added the ventilation holes to the case and my logo I will add the battery pack holder later. I have also finished the improved port cutouts and i improved the size and am planning on adding padding after the case is completed. I think I might be able to finish the case soon.![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--951bdc8ef10d3e00c95b823e6faa420c77d6b17d/image.png)
+  
+
