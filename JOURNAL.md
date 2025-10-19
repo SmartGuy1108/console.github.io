@@ -24,3 +24,8 @@ I made my Bill of Materials and README.md. I plan on working on my case next in 
 I found cheaper versions and updated my BOM. I improved the thickness of the console and i might make it handheld and attachable to tv and monitors. I am going to find better versions of the controllers and possibly find speakers. I think i could add a bigger sd card.  ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--33517b07327f42bed4f93146fcf89d62ab07d43b/image.png)
   
 
+## 10/18/2025 - Updated BOM with sales tax and finished basic case  
+
+I added sales tax to my BOM and finished my first version of the case which will hold the raspberry pi 4 the fan and the screen. I think I am almost done with the console and I think I can publish it soon. I am going to add a improved version of the case ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8aef719ba4c85cfdbd49dd0362ee7af8ffdbdaaf/image.png)
+   
+
