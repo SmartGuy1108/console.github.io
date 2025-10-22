@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Gaming Console**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/638).
-
-
 ## 10/17/2025 8 PM - Pushed my BOM.csv and README.md  
 
 I made my Bill of Materials and README.md. I plan on working on my case next in use fusion 360 for my case. I think I'm going to finish this soon hopefully and I might add upgrades to the consoles like a speaker and a better screen. I think I might also find a way to make the console handheld instead of a brick.
@@ -42,5 +38,10 @@ I added the battery pack holder and finished the case! (for now) I am planning o
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bb3a632e35930dd8160c18398d00250b8614cbc5/image.png)
+  
+
+## 10/21/2025 - Finished half the PCB  
+
+Since I cannot use the Raspberry pi 4 anymore, I started designing my own PCB which is inspired by the Open Rex one. I have finished half of it. I will complete the rest of it later. ![Screenshot 2025-10-21 180109.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8cd6e22537c2ec89dd62f273b2d8a97290e707b4/Screenshot%202025-10-21%20180109.png)
   
 
